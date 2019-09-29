@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>MicroservicesDemo</name>
+	<comment></comment>
+	<projects>
+		<project>CallDetailsMS</project>
+		<project>CustomerMS</project>
+		<project>FriendFamilyMS</project>
+		<project>infytel-config-server</project>
+		<project>infytel-eureka</project>
+		<project>PlanMS</project>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+</projectDescription>
